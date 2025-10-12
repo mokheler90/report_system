@@ -7,7 +7,7 @@ const Footer = () => {
       <Container>
         <div className="text-center">
           <p className="mb-0">
-            &copy; 2024 LUCT Report System. All rights reserved.
+            &copy; 2025 LUCT Report System. All rights reserved.
           </p>
           <p className="mb-0">
             Faculty of Information Communication Technology
